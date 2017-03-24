@@ -1,0 +1,382 @@
+.head{
+	width: 100%;
+	height: 992px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	background: url(../images_two/sichuan_01.jpg) no-repeat center;
+	position: relative;
+}
+.head .head1{
+	width: 100%;
+	height: 84px;
+	background-color: rgba(0,0,0,0.2); 
+	position: absolute;
+}
+.head .head1 .head0{
+	width: 1200px;
+	height: 84px;
+	margin: 0 auto;
+	position: relative;
+}
+.head .head1 .head0 .top{
+	float:right;
+}
+.head .head1 .head0 .top>li{
+	text-align: center;
+	line-height: 84px;
+	font-size: 20px;
+	float: left;
+	width: 140px;
+	height: 84px; 
+}
+.head .head1 .head0 .top .top2 .under li{
+   background-color: #30b6e9;
+ 	text-align: center;
+ 	font-size: 18px;
+	width: 140px;
+	height: 35px;
+	line-height: 35px;
+
+}
+.head .head1 .head0 .top .top2 .under li:hover{
+	background: #1c6a87;
+}
+.head .head1 .head0 .top .top2 .under{
+	display: none;
+}
+.head .head1 .head0 .top .top2:hover .under{
+	display: block;
+}
+.head .head1 .head0 .pic1{
+	width: 65px;
+	height: 65px;
+	position: absolute;
+	left: 0;
+	top: 10px;
+}
+.head .head1 .head0 .pic10{
+	width: 19px;
+	height: 19px;
+	position: absolute;
+	left: 760px;
+	top: 35px;
+}
+.head .head1 .head0 .pic11{
+	width: 19px;
+	height: 19px;
+	position: absolute;
+	left: 1040px;
+	top: 35px;
+}
+.head .head1 .head0 .text0{
+	width: 150px;
+	height: 25px;
+	font-size: 18px;
+	color: #fff;
+	position: absolute;
+	left: 80px;
+	top: 40px;
+}
+.dis1{
+	width: 100%;
+	height: 904px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.dis1 .dis2{
+	width:1200px;
+	height: 904px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.dis1 .dis2 .text_1{
+	font-size: 36px;
+	margin: 44px auto auto 509px;
+}
+.dis1 .dis2 .text_2{
+	font-size: 24px;
+	margin: 20px auto auto 533px;
+}
+.dis1 .dis2 .pic1{
+	width: 695px;
+	height: 366px;
+	margin: 6px auto auto 0px;
+}
+.dis1 .dis2 .pic2{
+	width: 695px;
+	height: 348px;
+	margin: 56px auto auto 0px;
+}
+.dis1 .dis2 .pic3{
+	width: 475px;
+	height: 446px;
+	position: absolute;
+	left: 726px;
+	top:164px;
+}
+.dis1 .dis2 .text_3{
+	width: 475px;
+	height: 222px;
+	background-color:#30b6e9;
+	position: absolute; 
+	left: 726px;
+	top: 652px;
+	padding-top:30px; 
+}
+.dis1 .dis2 .text_3 .text_4{
+	font-size: 54px;
+	text-align: center;
+	height: 54px;
+	color: #fff;
+}
+.dis1 .dis2 .text_3 .text_5{
+	font-size: 100px;
+	position: absolute;
+	left:150px; 
+	top:45px;
+	color: #fff;
+}
+.newplay{
+	width: 100%;
+	height: 420px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.newplay .newplay1{
+	width: 1200px;
+	height: 420px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.newplay .newplay1 .text_6{
+	font-size: 36px;
+	margin: 44px auto auto 509px;
+}
+.newplay .newplay1 .text_7{
+	font-size: 24px;
+	margin: 15px auto auto 535px;
+}
+.newplay .newplay1 .pic4{
+	width: 275px;
+	height: 275px;
+	margin: 25px auto auto 0px;
+}
+.newplay .newplay1 .pic5{
+	width: 275px;
+	height: 275px;
+	margin: 25px auto auto 28px;
+}
+.newplay .newplay1 .pic6{
+	width: 275px;
+	height: 275px;
+	margin: 25px auto auto 28px;
+}
+.newplay .newplay1 .pic7{
+	width: 276px;
+	height: 275px;
+	position: absolute;
+	top: 144px;
+	left: 923px;
+}
+.get{
+	width: 100%;
+	height: 420px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.get .get1{
+	width: 1200px;
+	height: 420px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.get .get1 .text_8{
+	font-size: 36px;
+	margin: 44px auto auto 509px;
+}
+.get .get1 .text_9{
+	font-size: 24px;
+	margin: 15px auto auto 478px;
+}
+.get .get1 .pic8{
+	width: 275px;
+	height: 275px;
+	margin: 25px auto auto 0px;
+}
+.get .get1 .pic9{
+	width: 275px;
+	height: 275px;
+	margin: 25px auto auto 28px;
+}
+.get .get1 .pic10{
+	width: 275px;
+	height: 275px;
+	margin: 25px auto auto 28px;
+}
+.get .get1 .pic11{
+	width: 275px;
+	height: 275px;
+	position: absolute;
+	top: 146px;
+	left: 924px;
+}
+.about{
+	width: 100%;
+	height: 896px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.about .about1{
+	width: 1200px;
+	height: 896px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.about .about1 .text_10{
+	font-size: 36px;
+	margin: 44px auto auto 509px;
+}
+.about .about1 .text_11{
+	font-size: 24px;
+	margin: 15px auto auto 535px;
+}
+.about .about1 .pic1{
+	width: 406px;
+	height: 753px;
+	position: absolute;
+	left: 0px;
+	top: 139px;
+}
+.about .about1 .pic2{
+	width: 358px;
+	height: 360px;
+	position: absolute;
+	left: 448px;
+	top: 139px;
+}
+.about .about1 .pic3{
+	width: 360px;
+	height: 359px;
+	position: absolute;
+	left: 840px;
+	top: 139px;
+}
+.about .about1 .box .box1{
+	background-color: #30b6e9;
+	width: 756px;
+	height: 359px;
+	position: absolute;
+	left:448px; 
+	top:518px;
+}
+.about .about1 .box .box1 li{
+	list-style: none;
+}
+.about .about1 .box .box1 .text1{
+	font-size: 24px;
+	color: #fff;
+	margin: 84px auto auto 22px;
+
+}
+.about .about1 .box .box1 .text2{
+	font-size: 24px;
+	color: #fff;
+	margin: 20px auto auto 72px;
+
+}
+.about .about1 .box .box1 .text3{
+	font-size: 24px;
+	color: #fff;
+	margin: 20px auto auto 22px;
+
+}
+.about .about1 .box .box1 .text4{
+	font-size: 24px;
+	color: #fff;
+	margin: 20px auto auto 22px;
+
+}
+.about .about1 .box .box1 .text5{
+	font-size: 24px;
+	color: #fff;
+	margin: 20px auto auto 22px;
+
+}
+.jion{
+	width: 100%;
+	height: 748px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.jion .jion1{
+	width: 1200px;
+	height: 748px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+
+}
+.jion .jion1 .text1{
+	font-size: 36px;
+	position: absolute;
+	left: 523px;
+	top: 35px;
+}
+.jion .jion1 .text2{
+	font-size: 24px;
+	position: absolute;
+	left: 555px;
+	top: 90px;
+}
+.jion .jion1 .pic{
+	width: 1200px;
+	height: 481px;
+	position: absolute;
+	left: 0px;
+	top: 300px;
+}
+.foot{
+	width: 100%;
+	height: 260px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+	
+}
+.foot .foot1{
+	width: 1200px;
+	height: 260px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+	
+}
+.foot .foot1 .pic{
+	width: 1200px;
+	height: 130px;
+	position: absolute;
+	top: 130px;
+}
+

@@ -1,0 +1,405 @@
+.public-banner{
+	width: 100%;
+	height: 835px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+}
+.public-banner div{
+	width: 100%;
+	max-width: 1920px;
+	overflow: hidden;
+}
+.public-banner .public-banner1{
+	background: url(../images_one/banner_01_01.jpg) no-repeat center;
+	height: 278px;
+}
+.public-banner .public-banner2{
+	background: url(../images_one/banner_01_02.gif) no-repeat center;
+	height: 279px;
+}
+.public-banner .public-banner3{
+	background: url(../images_one/banner_01_03.gif) no-repeat center;
+	height: 278px; 
+}
+.paris{
+	width: 100%;
+	height: 746px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	background-color:#e6f6ff;
+	/* position: relative; */
+
+}
+.paris .paris_04{
+	width: 1000px;
+	height: 746px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	background-color:#e6f6ff;
+	position: relative;
+}
+.paris .paris_04 .paris_00{
+	width: 223px;
+	height: 240px;
+	/* margin:110px auto auto 0px;
+ */	background-color: #49b4ff; 
+	position: absolute;
+	left: 0px;
+	top: 110px;
+}
+.text1{
+	font-size: 32px;
+	margin: 0 32px auto 32px;
+	padding-top:36px; 
+	color: #fff;
+}
+.text2{
+	font-size: 24px;
+	margin: 10px 32px auto 32px;
+	padding-top:36px;
+	color: #fff;
+}
+.text3{
+	font-size: 24px;
+	margin: 18px 32px auto 32px;
+	color: #fff;
+}
+.paris .paris_04 .paris_01{
+	width: 223px;
+	height: 347px;
+	background: url(../images_one/r_01_03.jpg) no-repeat center;
+	position: absolute;
+	left: 0px;
+	top: 352px;
+}
+.paris .paris_04 .paris_02{
+	background: url(../images_one/r_02.jpg.jpg) no-repeat center;
+	width: 459px;
+	height: 655px;
+	position: absolute;
+	left:225px; 
+	top: 45px;
+}
+.paris .paris_04 .paris_02 .text4{
+	width: 459px;
+	height: 295px;
+	background-color:rgba(0,0,0,0.3);
+	margin: 347px 0px;
+	padding-top:12px;
+	display: none; 
+}
+.paris .paris_04 .paris_02:hover .text4{
+	display: block;
+} 
+.paris .paris_04 .paris_02 .text4 .text5{
+	font-size: 24px;
+	margin: 0px auto auto 15px;
+	color: #fff; 
+	}
+.paris .paris_04 .paris_02 .text4 .text6{
+	font-size: 24px;
+	margin: 24px auto auto 15px; 
+	line-height: 45px;
+	color: #fff; 
+	}
+.paris .paris_04 .paris_02 .text4 .text7{
+	width: 230px;
+	height: 40px;
+	border:solid #fff 2px; 
+	border-radius: 10px ;
+	font-size: 36px;
+	color: #fff; 
+	margin: 10px auto auto 114px; 
+	text-align: center;
+	}
+.paris .paris_04 .paris_03{
+	background: url(../images_one/r_01.jpg.jpg) no-repeat center;
+	width: 312px;
+	height: 388px;
+	position: absolute;
+	top: 180px;
+	left:686px; 
+}
+
+.malaysia{
+	width: 100%;
+	height: 934px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	background-color:#fff;
+	position: relative;
+}
+.malaysia .malaysia_06{
+	width: 1000px;
+	height: 934px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	background-color:#fff;
+	position: relative;
+}
+.malaysia_00{
+	width: 1000px;
+	height: 228px;
+	margin:0px auto auto 0px;
+	background-color: #fff; 
+}
+.text4{
+	font-size: 32px;
+	margin: 68px 350px auto 350px; 
+	color: #111;
+}
+.text5{
+	font-size: 24px;
+	margin: 32px auto auto 100px;
+	color: #111;
+}
+.text6{
+	font-size: 24px;
+	margin: 20px auto auto 260px;
+	color: #111;
+}
+.malaysia_01{
+	width: 467px;
+	height: 289px;
+	background: url(../images_one/m_04.jpg) no-repeat center;
+	position: absolute;
+	left: 0px;
+	top: 230px;
+}
+.malaysia_02{
+	width: 532px;
+	height: 519px;
+	background: url(../images_one/m_11.jpg) no-repeat center;
+	position: absolute;
+	left: 469px;
+	top: 230px;
+}
+.malaysia_03{
+	width: 230px;
+	height: 228px;
+	background: url(../images_one/m_05.jpg) no-repeat center;
+	position: absolute;
+	left: 0px;
+	top: 521px;
+}
+.malaysia_04{
+	width: 235px;
+	height: 228px;
+	background: url(../images_one/m_06.jpg) no-repeat center;
+	position: absolute;
+	left: 232px;
+	top: 521px;
+}
+.malaysia_05{
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #dcdbdb;
+	padding-top:20px; 
+	width: 260px;
+	height: 56px;
+	background-color:red;
+	position: absolute;
+	left: 374px;
+	top: 784px;
+}
+.malaysia_05 a{
+	font-size: 38px; 
+	color: #fff;
+	text-decoration: none;
+	margin: 0 auto auto 58px;
+}
+
+.korea{
+	width: 100%;
+	height: 658px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	background-color:#e6f6ff;
+	position: relative;
+}
+.korea .korea_03{
+	width: 1000px;
+	height: 658px;
+	margin: 0 auto;
+	max-width: 1920px;
+	overflow: hidden;
+	background-color:#e6f6ff;
+	position: relative;
+}
+.korea_00{
+	width: 487px;
+	height: 148px;
+	background-color:#fc7742;
+	margin: 44px auto auto 90px;
+	padding-top: 36px; 
+}
+.text7{
+	font-size: 32px;
+	margin: 0 auto auto 32px;
+	color: #fff;
+}
+.text8{
+	font-size: 24px;
+	margin: 55px auto auto 32px;
+	color: #fff;
+}
+.korea_01{
+	width: 578px;
+	height: 380px;
+	background: url(../images_one/h_02.jpg) no-repeat center;
+	position: absolute;
+	left: 0px;
+	top: 230px;
+}
+.korea_02{
+	width: 420px;
+	height: 442px;
+	background: url(../images_one/h_01.jpg) no-repeat center;
+	position: absolute;
+	left: 580px;
+	top: 44px;
+}
+
+.bangkok{
+	width: 100%;
+	height: 912px;
+	margin: 0 auto;
+	background-color: #fff;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+	
+}
+.bangkok .bangkok_03{
+	width: 1000px;
+	height: 912px;
+	margin: 0 auto;
+	background-color: #fff;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+	
+}
+.bangkok_00{
+	width: 1000px;
+	height: 325px;
+	background-color: #fff;
+	margin: 0 auto auto 0px;
+}
+.text9{
+	font-size: 36px;
+	color: #111;
+	margin: 105px auto auto 404px;
+}
+.text10{
+	font-size: 24px;
+	color: #111;
+	margin: 33px auto auto 176px;
+}
+.text11{
+	font-size: 24px;
+	color: #111;
+	margin: 22px auto auto 272px;
+}
+.text12{
+	font-size: 24px;
+	color: #111;
+	margin: 22px auto auto 334px;
+}
+.bangkok_01{
+	width: 1000px;
+	height: 364px;
+	background: url(../images_one/t_06.jpg) no-repeat center;
+	position: absolute;
+	left: 0px;
+	top: 325px;
+}
+.bangkok_02{
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #dcdbdb;
+	padding-top:20px; 
+	width: 260px;
+	height: 56px;
+	background-color:red;
+	position: absolute;
+	left: 374px;
+	top: 723px;
+}
+.bangkok_02 a{
+	font-size: 38px; 
+	color: #fff;
+	text-decoration: none;
+	margin: 0 auto auto 58px;
+}
+.nz{
+	width: 100%;
+	height: 747px;
+	margin: 0 auto;
+	background-color: #e6f6ff;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.nz{
+	width: 1000px;
+	height: 747px;
+	margin: 0 auto;
+	background-color: #e6f6ff;
+	max-width: 1920px;
+	overflow: hidden;
+	position: relative;
+}
+.nz .nz_00{
+	width: 224px;
+	height: 224px;
+	background-color: #47bc52;
+	margin: 98px auto auto 776px;
+	padding-top: 15px;
+}
+.text13{
+	font-size: 32px;
+	margin: 36px auto auto 63px;
+	color: #fff;
+}
+.text14{
+	font-size: 24px;
+	margin: 30px auto auto 30px;
+	color: #fff;
+}
+.text15{
+	font-size: 24px;
+	margin: 25px auto auto 30px;
+	color: #fff;
+}
+.nz .nz_01{
+	width: 459px;
+	height: 655px;
+	background: url(../images_one/x_07.jpg)  no-repeat center;
+	position: absolute;
+	left: 0px;
+	top: 44px;
+}
+.nz .nz_02{
+	width:311px; 
+	height: 239px;
+	background: url(../images_one/x_08.jpg) no-repeat center;
+	position: absolute;
+	left: 461px;
+	top: 98px;
+}
+.nz .nz_03{
+	width:536px;
+	height: 247px;
+	background: url(../images_one/x_09.jpg) no-repeat center;
+	position: absolute;
+	left: 461px;
+	top: 340px;
+}
+
+
+
